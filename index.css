@@ -1,0 +1,151 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Kode+Mono:wght@400..700&family=Permanent+Marker&display=swap');
+
+
+
+body{
+    margin-top: 0px;background-color: #000000;
+    padding: 0px;
+}
+
+ ul{
+    width: 100%;
+    height: 35px;
+    padding-left: 0;
+    list-style-type: none; 
+   width: 100%;
+    display: flex;
+    gap: 30px;
+    justify-content:space-around;
+    color: #4597a1;
+    font-size: 25px;
+    font-family: "Kode Mono", monospace;
+    transition-duration: 0,50 ;
+
+
+}
+
+
+
+
+.card{
+    width: 400px;
+    height: 420px;
+    margin-top: 50px;
+    border: solid  #4597a1;
+    border-radius: 50% ;
+    margin-left: 45px;
+ 
+}
+#foto{
+    width: 400px;
+    height: 420px;
+    border-radius: 50%
+}
+
+main{
+    display: flex;
+}
+
+.texto{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+
+
+.projeto{
+    margin-top: 100px;
+align-items: center;
+justify-content: center;
+margin-left: 20px;
+
+
+
+}
+
+
+.tecnologias{
+
+
+    margin-top: 100px;
+
+
+}
+
+
+
+
+#img5{
+    width: 430px;
+    height: 400px;
+    margin-left: 20px;
+  
+
+}
+
+
+
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    color: #4597a1;
+    font-family: "Kode Mono", monospace;
+    margin-right: 60px;
+    font-size: 35px;
+}
+h2{
+    color: #4597a1;
+    font-family: "Kode Mono", monospace;
+    margin-left: 39%;
+    font-size: 30px;
+ 
+}
+
+
+
+#tec{
+    width: 800px;
+    height: 400px;
+    margin-left: 28%;
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: "Kode Mono", monospace;
+}
+
+#logoo {
+    width: 100%;
+    display: flex;
+    color: #4597a1;
+   
+    margin-top: 100px;
+
+}
+#logo{
+    width: 400px;
+    height: 80px;
+    margin-left: 70%;
+    margin-top: 36px;
+}
+
+#git, #what , #insta {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+  
+}
+
+
+#nome{
+    width: 500px;
+    height: 80px; 
+    font-size: 20px;
+    font-family: "Kode Mono", monospace;
+}
